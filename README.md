@@ -9,8 +9,8 @@ please do not publish or call it yours, thank you!
 # This website code contains
 
 
-multiple xaml files
-uses CSS and xaml codes
+- multiple xaml files
+- uses CSS and xaml codes
 
 - Has animations.
 - Opens any app
